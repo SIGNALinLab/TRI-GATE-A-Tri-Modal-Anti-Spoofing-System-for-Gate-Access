@@ -99,7 +99,7 @@ https://github.com/user-attachments/assets/47be0629-9098-442a-8188-a27c2a6340a0
 
 1. **Clone the Repository:**
    ```bash
-   git clone https://github.com/SIGNALinLab/TRI-GATE-A-Tri-Modal-Anti-Spoofing-System-for-Gate-Access
+   git clone https://github.com/SIGNALinLab/TRI-GATE-A-Tri-Modal-Anti-Spoofing-System-for-Gate-Access.git
    ```
 
 2. **Navigate to the Project Directory:**
