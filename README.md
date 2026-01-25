@@ -87,11 +87,11 @@ TRI-GATE is a tri-modal access control pipeline that combines **vehicle recognit
 ---
 ## Input Video
 
-https://github.com/user-attachments/assets/e90a047c-a9e2-480d-8e8a-8870579e8754
+https://github.com/user-attachments/assets/381612db-9558-4058-9fe1-9d2c65d70446
 
 ## Output (Processed) Video
 
-https://github.com/user-attachments/assets/49339041-5614-4c82-ba2a-8f882d389bde
+https://github.com/user-attachments/assets/47be0629-9098-442a-8188-a27c2a6340a0
 
 ---
 
