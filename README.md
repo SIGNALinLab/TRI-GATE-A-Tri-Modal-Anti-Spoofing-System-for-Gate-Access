@@ -226,5 +226,3 @@ You are welcome to publish papers, reports, and results that use this software. 
 
 If you have any questions or suggestions, please reach out to the project team at contact@signalinlab.ai
 
----
-
