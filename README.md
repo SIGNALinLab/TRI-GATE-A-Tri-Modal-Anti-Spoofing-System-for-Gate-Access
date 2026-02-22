@@ -218,7 +218,7 @@ You are welcome to publish papers, reports, and results that use this software. 
 - **Cite the project** (see “How to cite” above).
 - If a venue requires code availability, **link to this repository** rather than embedding or re-hosting the full source as supplementary material.
 - If you need to provide code to reviewers, prefer a private link/fork or a reference to a tagged release in this repo.
-- If you believe your venue requires bundling or archiving substantial portions of the source code outside GitHub, **contact us** and I’ll help find a compliant approach.
+- If you believe your venue requires bundling or archiving substantial portions of the source code outside GitHub, **contact us** and we’ll help find a compliant approach.
 
 ---
 
